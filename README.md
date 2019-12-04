@@ -1,3 +1,2 @@
-# lifeline
-A Small Project that helps detecting guns and knives in public to prevent any gun shootings in the future
-The Code is written in python for Rasberry Pi and uses Google Cloud Vision API inorder to detect guns and knives in the video frame.
+# Lifeline Solutions
+A Project that helps detecting guns and knives in public using Machine Learning and Computer Vision to prevent any gun shootings in the future.The Code is written in python for Rasberry Pi and uses Google Cloud AutoML API inorder to detect guns and knives in the video frame. In the second phase, Lifeline 2.0 we leverage Tensorflow and OpenCV for detecting weapons using our own machine learning models. Right now we are in the stage of training our models for higher prediction accuracy.
